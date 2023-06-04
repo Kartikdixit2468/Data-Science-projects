@@ -1,2 +1,2 @@
 # Machine-learning-projects
-This repo contains very basic ML projects using Python.
+This repo contains some begginer friendly ML projects using Python.
